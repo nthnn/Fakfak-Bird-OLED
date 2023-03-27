@@ -12,7 +12,11 @@ Disclaimer: I used [Fritzing](https://fritzing.org/) to create the diagram below
 
 ## Demo
 
-[Here](./res/fakfak_bird_demo.mp4)'s an actual demo of the project.
+[Here](./res/fakfak_bird_demo.mp4)'s an actual demo of the project. Below is the actual prototype demo I've made.
+
+![Fakfak Bird OLED actual demonstration](./res/fakfak_bird_demo.jpg)
+
+The monochromatic OLED display flickers due to the limitations of the camera I used.
 
 ## Running the Project
 
